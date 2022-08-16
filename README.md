@@ -13,6 +13,7 @@ Sistemimizi güncelleyelim
 
 Docker'i kuralım
 >curl -fsSL https://get.docker.com -o get-docker.sh
+
 >sudo sh get-docker.sh
 
 Docker'in durumunu kontrol edelim
